@@ -2,7 +2,7 @@
 
 A friendly second opinion for Fantasy Premier League managers. Enter any FPL team ID and it gives advice for that squad before each deadline.
 
-**Live app:** add your Streamlit link here
+**Live app:** https://fpl-assistant-goat.streamlit.app
 
 ## What it does
 
