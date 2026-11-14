@@ -26,10 +26,10 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 25,Gyökeres,ARS,FWD,7.0,3.0,a,,,11,2.0
 26,Havertz,ARS,FWD,7.4,6.0,a,100,,35,3.5
 27,G.Jesus,ARS,FWD,5.9,0.1,u,0,Has joined FC Barcelona permanently,0,0.0
-28,Martinez,CHE,GKP,4.9,3.1,d,75,Head injury - 75% chance of playing,20,2.0
+28,Martinez,CHE,GKP,4.9,3.0,d,75,Head injury - 75% chance of playing,20,2.0
 29,M.Bizot,AVL,GKP,4.5,0.1,a,100,,1,0.0
 30,Digne,AVL,DEF,4.5,0.0,u,0,Has joined Paris Saint-Germain permanently,0,0.0
-31,Konsa,ARS,DEF,4.8,24.6,a,100,,57,10.2
+31,Konsa,ARS,DEF,4.8,24.7,a,100,,57,10.2
 32,Cash,AVL,DEF,4.3,3.6,a,100,,18,3.0
 33,Mings,AVL,DEF,4.5,0.4,a,,,18,1.8
 34,Pau,AVL,DEF,4.4,0.3,a,100,,10,1.8
@@ -51,7 +51,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 50,Burrowes,AVL,MID,4.4,0.5,a,,,0,0.0
 51,George Hemmings,AVL,MID,4.4,0.7,a,100,,10,0.2
 52,Alysson,AVL,MID,4.9,0.2,a,100,,28,4.8
-53,Manzambi,AVL,MID,6.2,8.6,d,75,Calf injury - 75% chance of playing,40,5.2
+53,Manzambi,AVL,MID,6.2,8.5,d,75,Calf injury - 75% chance of playing,40,5.2
 54,Gomes,AVL,MID,5.5,0.1,a,100,,13,2.2
 55,Watkins,AVL,FWD,7.8,2.2,u,0,Has joined Al Hilal permanently,0,0.0
 56,Abraham,AVL,FWD,5.5,0.2,a,100,,4,0.0
@@ -66,7 +66,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 65,J.Araujo,BOU,DEF,4.4,0.0,i,0,Thigh injury - Unknown return date,0,0.0
 66,Soler,BOU,DEF,4.0,0.2,a,100,,1,0.0
 67,Rayan,BOU,MID,6.3,2.4,a,,,30,4.5
-68,Tavernier,BOU,MID,6.7,31.4,a,,,58,6.5
+68,Tavernier,BOU,MID,6.7,31.5,a,,,58,6.5
 69,Scott,BOU,MID,5.9,2.1,a,100,,30,0.0
 70,Kluivert,BOU,MID,5.9,1.0,a,100,,31,4.0
 71,Cook,BOU,MID,5.0,0.1,a,,,19,2.5
@@ -104,13 +104,13 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 103,Dasilva,BRE,MID,4.8,0.0,d,25,Hamstring injury - 25% chance of playing,0,0.0
 104,Onyeka,COV,MID,4.8,0.1,d,50,Groin injury - 50% chance of playing,12,0.5
 105,Anthony,BRE,MID,5.9,0.2,a,,,27,1.8
-106,Thiago,BRE,FWD,7.8,8.1,s,0,Suspended until 5 Dec,30,4.0
+106,Thiago,BRE,FWD,7.8,8.0,s,0,Suspended until 5 Dec,30,4.0
 107,Furo,BRE,FWD,4.4,0.6,i,0,Unspecified injury - Unknown return date,0,0.0
 108,Wilson,BRE,FWD,5.3,0.3,a,,,6,0.8
 109,Verbruggen,BHA,GKP,4.7,24.0,a,,,57,6.2
 110,Rushworth,COV,GKP,4.5,0.8,a,,,26,1.8
 111,Steele,BHA,GKP,4.0,3.4,a,,,0,0.0
-112,Van Hecke,TOT,DEF,5.1,14.7,a,100,,57,7.5
+112,Van Hecke,TOT,DEF,5.1,14.8,a,100,,57,7.5
 113,F.Kadıoğlu,BHA,DEF,4.3,1.3,a,100,,29,1.8
 114,Boscagli,BHA,DEF,4.5,0.7,a,,,44,5.0
 115,De Cuyper,BHA,DEF,5.5,47.9,a,,,75,5.5
@@ -284,7 +284,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 283,Jacob,HUL,DEF,4.0,0.0,u,0,Has joined Newport County on loan until January,0,0.0
 284,McCarthy,HUL,DEF,4.0,0.1,a,,,0,0.0
 285,McNair,HUL,DEF,3.9,0.1,a,100,,1,0.0
-286,Belloumi,HUL,MID,5.3,9.6,d,75,Hamstring injury - 75% chance of playing,48,2.8
+286,Belloumi,HUL,MID,5.3,9.5,d,75,Hamstring injury - 75% chance of playing,48,2.8
 287,Millar,HUL,MID,5.0,0.0,u,0,Has joined Birmingham on loan for the rest of the season,6,0.0
 288,Dowell,HUL,MID,4.3,0.2,a,,,0,0.0
 289,Crooks,HUL,MID,4.4,0.5,a,100,,6,0.5
@@ -389,13 +389,13 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 388,Guéhi,MCI,DEF,6.0,14.0,d,75,Unspecified injury - 75% chance of playing,37,0.2
 389,Matheus N.,MCI,DEF,5.9,1.0,a,100,,22,1.2
 390,Rúben,MCI,DEF,5.5,2.0,a,,,28,1.2
-391,Gvardiol,MCI,DEF,5.6,22.6,d,75,Unspecified injury - 75% chance of playing,44,0.8
+391,Gvardiol,MCI,DEF,5.6,22.5,d,75,Unspecified injury - 75% chance of playing,44,0.8
 392,Aït-Nouri,MCI,DEF,5.1,0.3,a,,,0,0.0
 393,Khusanov,MCI,DEF,5.3,1.2,a,,,18,2.2
 394,Alleyne,MCI,DEF,5.0,0.0,u,0,Has joined Burnley on loan for the rest of the season,0,0.0
 395,Lewis,MCI,DEF,4.3,0.2,a,,,2,0.2
 396,Vitor Reis,MCI,DEF,4.4,0.0,a,,,1,0.0
-397,Semenyo,MCI,MID,8.2,5.6,i,0,Knee injury - Unknown return date,37,0.2
+397,Semenyo,MCI,MID,8.2,5.5,i,0,Knee injury - Unknown return date,37,0.2
 398,Foden,MCI,MID,6.8,2.3,a,100,,21,3.0
 399,Cherki,MCI,MID,7.9,33.5,a,,,54,2.5
 400,Doku,MCI,MID,7.5,4.5,a,100,,25,3.0
@@ -413,10 +413,10 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 412,Lammens,MUN,GKP,4.8,7.2,a,,,21,2.0
 413,Bayindir,MUN,GKP,4.5,0.0,u,0,Has joined Celta Vigo on loan for the rest of the season,0,0.0
 414,Heaton,MUN,GKP,4.0,0.1,a,100,,0,0.0
-415,Dorgu,MUN,MID,5.7,0.3,a,100,,21,2.8
+415,Dorgu,MUN,MID,5.7,0.3,d,75,Hamstring injury - 75% chance of playing,21,2.8
 416,De Ligt,MUN,DEF,4.9,0.0,a,100,,0,0.0
 417,Dalot,MUN,DEF,4.7,1.2,a,,,16,2.0
-418,Maguire,MUN,DEF,4.6,5.1,d,75,Back injury - 75% chance of playing,16,1.0
+418,Maguire,MUN,DEF,4.6,5.0,d,75,Back injury - 75% chance of playing,16,1.0
 419,Martinez,MUN,DEF,4.8,0.9,a,100,,9,0.0
 420,Yoro,MUN,DEF,4.8,0.5,a,,,13,2.0
 421,Heaven,MUN,DEF,4.3,0.2,a,100,,2,0.0
@@ -425,7 +425,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 424,Amass,MUN,DEF,3.9,0.2,a,,,0,0.0
 425,Fredricson,MUN,DEF,4.0,0.0,u,0,Has joined Lausanne-Sport permanently,0,0.0
 426,B.Fernandes,MUN,MID,11.6,20.4,a,,,45,3.2
-427,Mbeumo,MUN,MID,7.9,19.1,a,,,46,3.2
+427,Mbeumo,MUN,MID,7.9,19.0,a,,,46,3.2
 428,Cunha,MUN,MID,7.8,5.6,a,,,45,2.2
 429,Rashford,MUN,MID,6.8,0.9,i,0,Hip injury - Unknown return date,11,0.0
 430,Mount,MUN,MID,5.4,0.0,a,100,,6,1.2
@@ -612,7 +612,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 611,Wan-Bissaka,AVL,DEF,4.5,0.2,d,50,Hamstring injury - 50% chance of playing,13,1.5
 612,Methalie,SUN,DEF,4.5,0.0,a,100,,0,0.0
 613,Ahoka,SUN,MID,4.4,0.2,a,,,5,1.2
-614,Hadjam,BHA,DEF,4.5,0.1,a,,,9,0.5
+614,Hadjam,BHA,DEF,4.5,0.1,d,75,Unspecified injury - 75% chance of playing,9,0.5
 615,Di Gregorio,BOU,GKP,4.5,0.0,a,,,0,0.0
 616,Bouaddi,MCI,MID,5.5,0.2,a,,,5,0.8
 617,Cho,HUL,MID,5.0,0.0,a,100,,12,0.8
@@ -637,7 +637,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 636,Ángel,FUL,MID,5.0,0.0,a,,,0,0.0
 637,Vaz,HUL,FWD,5.0,0.1,a,100,,5,0.5
 638,Norton-Cuffy,HUL,DEF,3.9,0.4,a,100,,5,1.0
-639,Andrés,BHA,MID,5.5,0.1,a,100,,20,1.2
+639,Andrés,BHA,MID,5.5,0.1,d,75,Hip injury - 75% chance of playing,20,1.2
 640,Flemming,IPS,FWD,5.5,0.1,a,,,14,1.8
 641,Bard,LEE,DEF,4.5,0.0,a,,,2,0.2
 642,Thomas,HUL,MID,5.5,0.0,a,,,13,0.5
