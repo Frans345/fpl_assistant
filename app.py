@@ -49,12 +49,12 @@ h3 { margin-top: 1.6rem; margin-bottom: 0.4rem; }
 
 /* Number cards */
 .cards { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1rem 0 1.4rem 0; }
-.card { flex: 1 1 150px; background: #2b0630; border-radius: 14px; padding: 0.85rem 1rem; }
+.card { flex: 1 1 150px; color: #ffffff; background: #2b0630; border-radius: 14px; padding: 0.85rem 1rem; }
 .card .label { font-size: 0.8rem; opacity: 0.7; }
 .card .value { font-size: 1.3rem; font-weight: 700; margin-top: 0.15rem; }
 
 /* Message boxes: advice (green), warning (yellow), problem (red) */
-.note { background: #2b0630; border-left: 4px solid #00ff87; border-radius: 12px;
+.note { color: #ffffff; background: #2b0630; border-left: 4px solid #00ff87; border-radius: 12px;
         padding: 0.9rem 1.1rem; margin: 0 0 0.9rem 0; line-height: 1.55; }
 .note b { color: #00ff87; }
 .note.warn { border-left-color: #ffd60a; }
@@ -63,7 +63,7 @@ h3 { margin-top: 1.6rem; margin-bottom: 0.4rem; }
 .note.danger b { color: #ff6b8a; }
 
 /* Transfer cards */
-.swap { background: #2b0630; border-radius: 14px; padding: 1.1rem 1.2rem; margin-bottom: 1rem; line-height: 1.75; }
+.swap { color: #ffffff; background: #2b0630; border-radius: 14px; padding: 1.1rem 1.2rem; margin-bottom: 1rem; line-height: 1.75; }
 .swap .title { font-size: 0.8rem; opacity: 0.7; text-transform: uppercase; letter-spacing: 0.06em; }
 .swap .out { color: #ff6b8a; font-weight: 700; display: inline-block; width: 2.6rem; }
 .swap .in { color: #00ff87; font-weight: 700; display: inline-block; width: 2.6rem; }
@@ -76,13 +76,15 @@ div[role="radiogroup"] { background: #2b0630; border-radius: 14px; padding: 0.4r
 div[role="radiogroup"] label { margin: 0; padding: 0.75rem 1.4rem; border-radius: 10px; cursor: pointer;
                                justify-content: center;
                                transition: background-color 150ms ease, color 150ms ease; }
-div[role="radiogroup"] label > div:first-child { display: none; }
-div[role="radiogroup"] label p { font-size: 1.1rem; font-weight: 700; }
+div[role="radiogroup"] label > div:first-of-type { display: none; }
+div[role="radiogroup"] label p { font-size: 1.1rem; font-weight: 700; color: #ffffff; }
 div[role="radiogroup"] label:has(input:checked) { background: #00ff87; }
 div[role="radiogroup"] label:has(input:checked) p { color: #1d0421; }
 
 /* Fold-out bars (the chips, and the extra sections on the Transfers page) */
-div[data-testid="stExpander"] details { background: #2b0630; border: none; border-radius: 14px; }
+div[data-testid="stExpander"] details { background: #2b0630; color: #ffffff; border: none; border-radius: 14px; }
+div[data-testid="stExpander"] details p, div[data-testid="stExpander"] details li,
+div[data-testid="stExpander"] details label { color: #ffffff; }
 div[data-testid="stExpander"] summary { padding: 1rem 1.2rem; border-radius: 14px;
                                         transition: background-color 150ms ease; }
 div[data-testid="stExpander"] summary p { font-size: 1.1rem; font-weight: 700; }
@@ -114,7 +116,7 @@ div[data-testid="InputInstructions"] { display: none; }
           padding: 2px 4px; margin-top: 5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .pl .fx { background: white; color: #1d0421; font-size: 0.72rem; border-radius: 0 0 6px 6px; padding: 1px 4px;
           overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.bench { background: #2b0630; border-radius: 16px; padding: 0.2rem 0.4rem 0.4rem 0.4rem; margin: 0.7rem 0 1.2rem 0; }
+.bench { color: #ffffff; background: #2b0630; border-radius: 16px; padding: 0.2rem 0.4rem 0.4rem 0.4rem; margin: 0.7rem 0 1.2rem 0; }
 .bench .label { font-size: 0.8rem; opacity: 0.7; text-align: center; margin-top: 0.6rem; }
 
 /* Phones */
