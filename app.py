@@ -76,7 +76,7 @@ div[role="radiogroup"] { background: #2b0630; border-radius: 14px; padding: 0.4r
 div[role="radiogroup"] label { margin: 0; padding: 0.75rem 1.4rem; border-radius: 10px; cursor: pointer;
                                justify-content: center;
                                transition: background-color 150ms ease, color 150ms ease; }
-div[role="radiogroup"] label > div:first-of-type { display: none; }
+div[role="radiogroup"] label > div:first-child { display: none; }
 div[role="radiogroup"] label p { font-size: 1.1rem; font-weight: 700; color: #ffffff; }
 div[role="radiogroup"] label:has(input:checked) { background: #00ff87; }
 div[role="radiogroup"] label:has(input:checked) p { color: #1d0421; }
