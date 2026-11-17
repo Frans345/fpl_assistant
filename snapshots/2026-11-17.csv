@@ -1,36 +1,36 @@
 id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_round,news,total_points,form
-1,Raya,ARS,GKP,6.2,47.6,a,,,60,6.8
+1,Raya,ARS,GKP,6.2,47.6,a,,,60,6.0
 2,Arrizabalaga,ARS,GKP,4.9,0.1,a,,,0,0.0
 3,Meslier,ARS,GKP,4.9,0.0,a,,,0,0.0
-4,Gabriel,ARS,DEF,8.1,26.2,a,,,66,9.8
-5,J.Timber,ARS,DEF,6.5,1.0,a,100,,14,3.0
+4,Gabriel,ARS,DEF,8.1,26.2,a,,,66,10.3
+5,J.Timber,ARS,DEF,6.5,1.1,a,100,,14,3.7
 6,Saliba,ARS,DEF,5.9,0.4,a,100,,0,0.0
-7,Lewis-Skelly,ARS,MID,5.3,0.5,a,,,13,0.5
-8,Calafiori,ARS,DEF,5.9,48.7,a,100,,57,4.8
-9,Hincapie,ARS,DEF,5.2,0.7,a,100,,5,0.5
-10,White,ARS,DEF,5.4,4.2,a,100,,42,4.0
+7,Lewis-Skelly,ARS,MID,5.3,0.5,a,,,13,0.7
+8,Calafiori,ARS,DEF,5.9,48.7,a,100,,57,4.3
+9,Hincapie,ARS,DEF,5.2,0.7,a,100,,5,0.7
+10,White,ARS,DEF,5.4,4.2,a,100,,42,3.3
 11,Mosquera,ARS,DEF,5.1,1.1,a,100,,12,0.0
-12,Saka,ARS,MID,9.4,5.4,i,0,Thigh injury - Unknown return date,37,0.8
-13,Rice,ARS,MID,7.5,13.7,a,100,,50,5.8
-14,Eze,ARS,MID,6.2,1.0,a,,,9,1.2
-15,Ødegaard,ARS,MID,6.7,16.5,a,,,50,5.0
-16,Madueke,ARS,MID,6.2,0.5,a,100,,22,4.5
-17,Merino,ARS,MID,5.7,0.4,a,,,11,1.5
+12,Saka,ARS,MID,9.4,5.4,i,0,Thigh injury - Unknown return date,37,0.0
+13,Rice,ARS,MID,7.5,13.7,a,100,,50,4.7
+14,Eze,ARS,MID,6.2,1.0,a,,,9,1.3
+15,Ødegaard,ARS,MID,6.7,16.5,a,,,50,5.7
+16,Madueke,ARS,MID,6.2,0.5,a,100,,22,4.3
+17,Merino,ARS,MID,5.7,0.4,a,,,11,1.7
 18,Martinelli,ARS,MID,6.3,0.1,u,0,Has joined Al Hilal permanently,0,0.0
-19,Zubimendi,ARS,MID,5.2,0.4,d,75,Hamstring injury - 75% chance of playing,7,0.5
-20,Dowman,ARS,MID,5.3,0.1,s,0,Suspended until 29 Nov,2,0.2
+19,Zubimendi,ARS,MID,5.2,0.4,d,75,Hamstring injury - 75% chance of playing,7,0.7
+20,Dowman,ARS,MID,5.3,0.1,s,0,Suspended until 29 Nov,2,0.3
 21,Nørgaard,EVE,MID,4.8,0.0,a,100,,0,0.0
 22,Nwaneri,ARS,MID,5.4,0.0,u,0,Has joined Borussia Dortmund on loan for the rest of the season,0,0.0
 23,Fábio Vieira,ARS,MID,5.5,0.0,u,0,Has joined Hamburger SV permanently,0,0.0
 24,Nelson,ARS,MID,5.5,0.0,u,0,has departed the club as a free agent.,0,0.0
-25,Gyökeres,ARS,FWD,7.0,3.0,a,,,11,2.0
-26,Havertz,ARS,FWD,7.4,5.9,a,100,,35,3.5
+25,Gyökeres,ARS,FWD,7.0,3.0,a,,,11,2.3
+26,Havertz,ARS,FWD,7.4,5.9,a,100,,35,4.0
 27,G.Jesus,ARS,FWD,5.9,0.1,u,0,Has joined FC Barcelona permanently,0,0.0
 28,Martinez,CHE,GKP,4.9,3.0,d,75,Head injury - 75% chance of playing,20,0.0
 29,M.Bizot,AVL,GKP,4.5,0.1,a,100,,1,0.0
 30,Digne,AVL,DEF,4.5,0.0,u,0,Has joined Paris Saint-Germain permanently,0,0.0
-31,Konsa,ARS,DEF,4.9,24.8,a,100,,57,10.2
-32,Cash,AVL,DEF,4.3,3.6,d,75,Concussion - 75% chance of playing,18,1.3
+31,Konsa,ARS,DEF,4.9,24.8,a,100,,57,10.7
+32,Cash,AVL,DEF,4.3,3.5,d,75,Concussion - 75% chance of playing,18,1.3
 33,Mings,AVL,DEF,4.5,0.4,a,,,18,0.0
 34,Pau,AVL,DEF,4.4,0.3,a,100,,10,2.0
 35,Bogarde,AVL,MID,4.9,0.1,a,,,1,0.0
@@ -136,7 +136,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 135,Yohanna,BHA,MID,4.8,0.0,i,0,Unspecified injury - Expected back 22 Nov,1,0.0
 136,Welbeck,CHE,FWD,5.8,0.7,a,100,,9,1.0
 137,Tzimas,BHA,FWD,5.4,0.0,i,0,Knee injury - Unknown return date,0,0.0
-138,Kostoulas,BHA,FWD,5.8,9.8,a,,,47,2.0
+138,Kostoulas,BHA,FWD,5.8,9.7,a,,,47,2.0
 139,Ferguson,BHA,FWD,4.9,0.0,i,0,Ankle injury - Unknown return date,0,0.0
 140,Sánchez,CHE,GKP,4.9,0.5,u,0,Has joined Como on loan for the rest of the season,2,0.0
 141,Jörgensen,CHE,GKP,5.0,0.0,u,0,Has joined RC Strasbourg on loan for the rest of the season,0,0.0
@@ -165,13 +165,13 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 164,Quenda,CHE,MID,5.2,0.0,a,100,,8,1.7
 165,João Pedro,CHE,FWD,7.6,31.3,i,0,Thigh injury - Unknown return date,47,0.0
 166,N.Jackson,AVL,FWD,7.1,31.7,a,,,54,11.0
-167,Delap,NFO,FWD,5.3,1.6,a,,,30,4.8
+167,Delap,NFO,FWD,5.3,1.6,a,,,30,5.7
 168,Marc Guiu,CHE,FWD,5.0,0.1,u,0,Has joined RB Leipzig permanently,0,0.0
 169,Mheuka,CHE,FWD,4.5,0.4,a,,,0,0.0
 170,Emegha,CHE,FWD,4.9,0.1,a,100,,1,0.3
-171,Dovin,COV,GKP,4.0,0.8,u,0,not included in squad.,0,0.0
+171,Dovin,COV,GKP,4.0,0.7,u,0,not included in squad.,0,0.0
 172,Wilson,COV,GKP,4.4,0.3,a,,,0,0.0
-173,Thomas,COV,DEF,4.0,7.3,d,50,Calf injury - 50% chance of playing,32,1.0
+173,Thomas,COV,DEF,4.0,7.2,d,50,Calf injury - 50% chance of playing,32,1.0
 174,Kitching,COV,DEF,4.0,0.3,u,0,Has joined Sheffield United on loan for the rest of the season,0,0.0
 175,van Ewijk,COV,DEF,3.9,6.9,a,100,,20,2.0
 176,Dasilva,COV,DEF,4.0,1.4,a,,,30,1.2
@@ -199,7 +199,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 198,Henderson,CRY,GKP,4.9,1.0,a,100,,10,1.7
 199,Benitez,CRY,GKP,4.5,0.1,a,,,13,0.3
 200,Lacroix,CHE,DEF,5.8,4.5,i,0,Hamstring injury - Unknown return date,24,1.0
-201,Muñoz,NFO,DEF,5.2,4.1,a,,,17,2.8
+201,Muñoz,NFO,DEF,5.2,4.1,a,,,17,3.0
 202,Richards,CRY,DEF,4.9,0.5,a,,,27,2.3
 203,Canvot,CRY,DEF,4.8,0.2,a,,,15,1.0
 204,Mitchell,CRY,DEF,4.5,4.6,a,,,33,1.7
@@ -450,7 +450,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 449,Hall,NEW,DEF,5.2,18.1,a,,,46,3.7
 450,Livramento,NEW,DEF,4.8,0.0,a,100,,4,0.0
 451,A.Murphy,NEW,DEF,4.0,0.0,u,0,Has joined FC Kaiserslautern on loan for the rest of the season,0,0.0
-452,Bruno G.,ARS,MID,6.7,2.2,a,100,,28,2.5
+452,Bruno G.,ARS,MID,6.7,2.2,a,100,,28,2.3
 453,Barnes,NEW,MID,6.1,6.5,a,,,44,4.0
 454,Elanga,NEW,MID,6.0,2.3,a,100,,22,1.3
 455,Tonali,TOT,MID,5.3,2.0,a,100,,34,3.2
@@ -465,33 +465,33 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 464,Wissa,NEW,FWD,5.9,8.2,a,,,22,1.3
 465,Osula,NEW,FWD,5.8,0.4,a,100,,18,4.3
 466,Neave,NEW,FWD,4.5,0.4,u,0,Has joined Wolves on loan for the rest of the season,0,0.0
-467,Sels,NFO,GKP,5.0,1.3,a,,,23,1.8
+467,Sels,NFO,GKP,5.0,1.3,a,,,23,1.7
 468,John,NFO,GKP,4.4,0.1,a,,,0,0.0
-469,N.Williams,NFO,DEF,4.9,5.3,d,75,Ankle injury - 75% chance of playing,34,3.5
+469,N.Williams,NFO,DEF,4.9,5.3,d,75,Ankle injury - 75% chance of playing,34,3.7
 470,Morato,NFO,DEF,5.0,0.0,u,0,Has joined West Ham on loan for the rest of the season,0,0.0
-471,Milenković,NFO,DEF,5.4,0.7,a,100,,14,0.5
-472,Murillo,NFO,DEF,5.5,2.0,a,100,,35,2.5
-473,Aina,NFO,DEF,4.2,1.4,a,,,9,0.2
-474,Jair Cunha,NFO,DEF,4.4,0.2,a,100,,25,3.5
+471,Milenković,NFO,DEF,5.4,0.7,a,100,,14,0.7
+472,Murillo,NFO,DEF,5.5,2.0,a,100,,35,2.7
+473,Aina,NFO,DEF,4.2,1.4,a,,,9,0.3
+474,Jair Cunha,NFO,DEF,4.4,0.2,a,100,,25,4.0
 475,Savona,NFO,DEF,4.5,0.0,i,0,Knee injury - Unknown return date,0,0.0
 476,O.Richards,NFO,DEF,3.9,0.2,a,,,0,0.0
 477,Abbott,NFO,DEF,4.0,0.1,u,0,Has joined Southampton on loan for the rest of the season,0,0.0
-478,Netz,NFO,DEF,4.4,0.0,a,,,4,0.2
+478,Netz,NFO,DEF,4.4,0.0,a,,,4,0.3
 479,Bindon,NFO,DEF,4.0,0.1,u,0,Has joined Charlton Athletic on loan for the rest of the season,0,0.0
-480,Gibbs-White,NFO,MID,7.8,9.2,a,100,,39,2.2
+480,Gibbs-White,NFO,MID,7.8,9.2,a,100,,39,3.0
 481,Anderson,MCI,MID,6.2,3.6,a,100,,29,2.3
-482,Hudson-Odoi,NFO,MID,5.7,0.1,a,100,,4,0.5
-483,Ndoye,NFO,MID,5.5,0.5,a,100,,29,1.8
+482,Hudson-Odoi,NFO,MID,5.7,0.1,a,100,,4,0.3
+483,Ndoye,NFO,MID,5.5,0.5,a,100,,29,1.3
 484,Hutchinson,NFO,MID,5.4,0.1,u,0,Has joined AC Milan on loan for the rest of the season,0,0.0
 485,Bakwa,NFO,MID,5.5,0.0,u,0,Has joined Lille on loan for the rest of the season,0,0.0
-486,McAtee,NFO,MID,5.5,0.1,a,,,27,2.8
-487,Dominguez,NFO,MID,4.8,0.0,i,0,Muscular injury - Expected back 30 Dec,4,0.8
-488,I.Sangaré,NFO,MID,4.7,0.3,a,100,,7,0.5
-489,Yates,NFO,MID,4.4,1.0,a,100,,3,0.8
-490,Wood,NFO,FWD,5.7,0.7,a,,,8,0.8
+486,McAtee,NFO,MID,5.5,0.1,a,,,27,3.0
+487,Dominguez,NFO,MID,4.8,0.0,i,0,Muscular injury - Expected back 30 Dec,4,0.0
+488,I.Sangaré,NFO,MID,4.7,0.3,a,100,,7,0.3
+489,Yates,NFO,MID,4.4,1.0,a,100,,3,1.0
+490,Wood,NFO,FWD,5.7,0.7,a,,,8,0.7
 491,Igor Jesus,NFO,FWD,5.6,1.1,a,100,,12,0.0
 492,Awoniyi,COV,FWD,5.4,0.3,a,100,,16,3.2
-493,Kalimuendo,NFO,FWD,5.4,0.0,a,,,4,0.5
+493,Kalimuendo,NFO,FWD,5.4,0.0,a,,,4,0.3
 494,Vicario,TOT,GKP,4.5,0.1,u,0,Has joined Juventus on loan for the rest of the season,0,0.0
 495,Austin,TOT,GKP,4.0,1.0,a,,,0,0.0
 496,Kinsky,TOT,GKP,4.4,15.6,a,,,40,4.8
@@ -555,10 +555,10 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 554,Van Oevelen,IPS,GKP,4.5,0.0,u,0,Has joined Valencia on loan for the rest of the season,0,0.0
 555,Matthews,CRY,GKP,4.0,1.6,a,,,0,0.0
 556,Targett,HUL,DEF,3.9,1.1,i,0,Ankle injury - Unknown return date,1,0.0
-557,Tzolis,ARS,MID,6.1,3.9,a,100,,22,1.5
+557,Tzolis,ARS,MID,6.1,3.9,a,100,,22,2.0
 558,Schlager,NFO,MID,5.0,0.1,d,75,Thigh injury - 75% chance of playing,31,4.0
 559,Bamba,NEW,MID,4.8,0.1,a,,,3,0.0
-560,Penders,CHE,GKP,4.4,0.3,a,,,9,2.7
+560,Penders,CHE,GKP,4.4,0.4,a,,,9,2.7
 561,Anselmino,CHE,DEF,4.5,0.0,a,100,,0,0.0
 562,Maeda,IPS,MID,5.3,0.2,a,,,21,1.3
 563,Morita,HUL,MID,4.9,0.0,i,0,Groin injury - Unknown return date,5,0.7
@@ -579,7 +579,7 @@ id,name,team,position,price,selected_by_percent,status,chance_of_playing_next_ro
 578,Mudryk,TOT,MID,5.3,0.0,i,0,Ankle injury - Unknown return date,1,0.0
 579,Araujo,LIV,DEF,5.5,4.5,a,,,44,7.0
 580,Charles,FUL,MID,5.0,0.1,a,,,25,2.0
-581,Diomande,NFO,DEF,5.3,0.5,a,,,10,0.5
+581,Diomande,NFO,DEF,5.3,0.5,a,,,10,0.0
 582,Madjo,AVL,FWD,5.3,0.2,a,100,,1,0.3
 583,Chavarria,CHE,DEF,4.9,0.2,a,100,,13,1.0
 584,Hamer,COV,MID,5.2,0.1,a,,,6,0.8
